@@ -13,7 +13,7 @@
 
 <script>
 	export default {
-		name: 'super-header',
+		name: 'app-header',
 		data() {
 			return {
 				title: 'Vue Chat',
