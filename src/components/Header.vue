@@ -16,8 +16,8 @@
 		name: 'app-header',
 		data() {
 			return {
-				title: 'Vue Chat',
-				subtitle: 'Simple Chat Application with Vue.js'
+				title: 'Vue Blog',
+				subtitle: 'Simple Blog Application with Vue.js'
 			}
 		}
 	}
