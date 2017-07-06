@@ -2,6 +2,8 @@
 
 > Example Blog Application with Vue.js
 
+![Screenshot](screenshot.png)
+
 ## Build Setup
 
 ``` bash

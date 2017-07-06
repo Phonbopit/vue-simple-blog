@@ -40,21 +40,8 @@ export default {
       console.log('post', post)
       post.created_at = moment().format('DD MMM, YYYY HH:mm:ss')
       this.posts.push(Object.assign({}, post))
-    },
-
-    removePost: function(index) {
-      console.log('removePost')
-      posts.splice(index, 1)
     }
-  },
-
-  mixins: [{
-    methods: {
-      xxxx: function(index) {
-        console.log('call mixinxs')
-      }
-    }
-  }]
+  }
 }
 </script>
 

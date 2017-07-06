@@ -52,5 +52,7 @@
 </script>
 
 <style>
-	
+.new-post {
+  padding: 2em 0;
+}
 </style>
