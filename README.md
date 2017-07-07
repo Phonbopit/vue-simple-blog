@@ -1,5 +1,6 @@
-# vue-simple-blog
+# [vue-simple-blog](https://phonbopit.github.io/vue-simple-blog/)
 
+[DEMO](https://phonbopit.github.io/vue-simple-blog/)
 > Example Blog Application with Vue.js
 
 ![Screenshot](screenshot.png)
