@@ -1,6 +1,6 @@
 <template>
 	<header class="header">
-		<section class="hero is-success">
+		<section class="hero is-info">
 			<div class="hero-body">
 				<div class="container">
 					<h1 class="title">{{ title }}</h1>
